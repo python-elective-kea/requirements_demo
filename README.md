@@ -4,12 +4,10 @@ Demo i klassen om requirements, moduler
 ## Requirements
 
 ```
-  pip3 install flask
+  pip3 install requests
   pip3 list
   pip3 freeze > requirements.txt
 ```
-
-
 
 ## environments variables
 
